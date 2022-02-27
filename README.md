@@ -1,5 +1,8 @@
-### Hello, world! 👋
-## My name is Daniel. Welcome to my Github profile. <img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="200"/>
+## Hello, world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
+<img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="150"/>
+
+### My name is Daniel. Welcome to my Github profile.
 
 <div>
 <a href="https://github.com/DanielGMesquita">
@@ -7,10 +10,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielGMesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### I'm learning:
+## I'm learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
-### How to reach me:
+## How to reach me:
 
 <div>
 <a href="https://instagram.com/eudanielmesquita" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
