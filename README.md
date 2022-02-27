@@ -3,9 +3,9 @@
 <img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="150"/>
 
 ### My name is Daniel. Welcome to my Github profile.
-# I'm just a padawan lerning the way of the code!
-#
-# Code addicted!
+#### I'm just a padawan lerning the way of the code!
+
+#### Code addicted!
 
 <div>
 <a href="https://github.com/DanielGMesquita">
