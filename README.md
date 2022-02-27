@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 ## My name is Daniel. Welcome to my Github profile.
 
-<img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="30"/>
+<img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="100"/>
 
 <div>
 <a href="https://github.com/DanielGMesquita">
@@ -16,7 +16,7 @@
 
 <div>
 <a href="https://instagram.com/eudanielmesquita" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:daniel_mesquita2@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:d.g.mesquita2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielgmesquita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
