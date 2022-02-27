@@ -1,7 +1,5 @@
 ### Hello, world! 👋
-## My name is Daniel. Welcome to my Github profile.
-
-<img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="200"/>
+## My name is Daniel. Welcome to my Github profile. <img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="200"/>
 
 <div>
 <a href="https://github.com/DanielGMesquita">
