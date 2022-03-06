@@ -1,9 +1,11 @@
-## Hello, world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-<img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="150"/>
-
-### My name is Daniel. Welcome to my Github profile.
-#### I'm a beginner coder, you will see some nice projects here in the near future.
+# Hello, world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> 
+<img align="right" alt="Beta-pic" height="150" style="border-radius:45px;"
+img src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif" width="150"/>
+## Meu nome é Daniel e este é meu perfil do Github.
+- Tenho 32 anos, sou pai de cães e um humano e gamer no tempo que sobra! 🐶 🎮
+- Estudante de Ciência da Computação com ênfase em desenvolvimento Fullstack. 💻 👨‍💻
+- Se quiser alguém disposto a aprender coisas novas em tecnologia, me chama, fabrico tempo se necessário! ⏲️
+- Você verá alguns projetos legais por aqui no futuro!
 
 <div>
 <a href="https://github.com/DanielGMesquita">
