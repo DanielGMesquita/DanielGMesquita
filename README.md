@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Mesquita</h1>
 <h3 align="center">An enthusiastic learner of technology with focus on web development.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript.**
+- 🌱 I’m currently learning **HTML, CSS, Javascript. Also, I am used to deal with basic problems in Python.**
 
 - 📫 How to reach me **daniel_mesquita2@hotmail.com**
 
