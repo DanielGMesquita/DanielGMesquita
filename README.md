@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Mesquita</h1>
-<h3 align="center">An enthusiastic learner of technology with focus on web development.</h3>
+<h3 align="center">An enthusiastic learner of technology with focus on fullstack development.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript. Also, I am used to deal with basic problems using Python.**
 
