@@ -5,13 +5,13 @@
 
 - 📫 How to reach me **daniel_mesquita2@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18IqTjOYQHslXnnL9BYw1mtk8FajY0zVo/view?usp=sharing](https://drive.google.com/file/d/18IqTjOYQHslXnnL9BYw1mtk8FajY0zVo/view?usp=sharing)
+- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/18IqTjOYQHslXnnL9BYw1mtk8FajY0zVo/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danielgmesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielgmesquita" height="30" width="40" /></a>
-<a href="https://instagram.com/eudanielmesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eudanielmesquita" height="30" width="40" /></a>
-<a href="https://discord.gg/Daniel Mesquita#9486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Daniel Mesquita#9486" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/danielgmesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielgmesquita" height="30" width="40" /></a>
+<a target="_blank" href="https://instagram.com/eudanielmesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eudanielmesquita" height="30" width="40" /></a>
+<a target="_blank" href="https://discord.gg/Daniel Mesquita#9486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Daniel Mesquita#9486" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
