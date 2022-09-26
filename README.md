@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **daniel_mesquita2@hotmail.com**
 
-- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/18IqTjOYQHslXnnL9BYw1mtk8FajY0zVo/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1KPQ7TKGCVi4LQDj15oZZTjE2F8ZJ9RSj/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
