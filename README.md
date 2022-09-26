@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Mesquita</h1>
 <h3 align="center">An enthusiastic learner of technology with focus on fullstack development.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript with VueJS. Also, I am used to deal with basic problems using Python.**
+- 🌱 I’m currently working with **Javascript using VueJS. Also, I am used to deal with basic problems using Python.**
 
 - 📫 How to reach me **daniel_mesquita2@hotmail.com**
 
