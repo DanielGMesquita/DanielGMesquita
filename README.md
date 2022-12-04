@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **Javascript using VueJS. Also, I am used to deal with basic problems using Python.**
 
-- 📫 How to reach me **daniel_mesquita2@hotmail.com**
+- 📫 How to reach me **danielmesquitadev@gmail.com**
 
 - 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1KPQ7TKGCVi4LQDj15oZZTjE2F8ZJ9RSj/view?usp=sharing">Resume</a>
 
