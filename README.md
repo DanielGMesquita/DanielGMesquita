@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on front-end using Javascript using VueJS and Java with Springboot for back-end development. Also, I'm used to deal with NoSQL data from MongoDB.<br>🌱 I’m currently learning steps from back-end roadmap, microsservices architeture and TDD.<br>⚡ Fun fact: I hate driving, don´t ask me for a ride.
+🔭  I’m currently working on front-end using Javascript using VueJS and Java with Springboot for back-end development. Also, I'm used to deal with NoSQL data from MongoDB.<br>🌱 I’m currently learning steps from back-end roadmap, microsservices architeture and TDD.<br>⚡ Fun fact: I do develop in Java, but my commits are private.
 
 
 ## 🌐 Socials:
