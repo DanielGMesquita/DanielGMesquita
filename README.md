@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on front-end using Javascript using VueJS and Java with Springboot for back-end development. Also, I'm used to deal with NoSQL data from MongoDB.<br>🌱 I’m currently learning steps from back-end roadmap, microsservices architeture and TDD.<br>⚡ Fun fact: I do develop in Java, but my commits are private.
-
+🔭  Proactive and results-driven Back-end Developer with over 2 years of experience in designing and implementing customized applications. Proficient in Java, Spring Boot, and Vue.js, with expertise dealing with both NoSQL and SQL data. Currently a Software Engineer at European Dynamics, where I deliver tailored solutions to applications used by the European Commision, driving business outcomes for high-profile clients. With a background in commercial management spanning 10 years at industry leaders like Ambev, Coca-Cola, and Nissin Foods, I bring a unique perspective to software development, blending technical expertise with strategic business acumen. Fluent in English and Portuguese and always eager to tackle new challenges and expand my skill set.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielgmesquita) 
